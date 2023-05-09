@@ -1,11 +1,11 @@
 {
-  "name": "team-09-project",
+  "name": "html_86_Serhiy8",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/team-09-project/",
+    "build": "vite build --base=/html_86_Serhiy8/",
     "preview": "vite preview"
   },
   "devDependencies": {
